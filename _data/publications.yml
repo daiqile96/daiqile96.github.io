@@ -15,7 +15,7 @@ main:
     pdf: https://www.nature.com/articles/s41467-023-36862-w
     code: https://github.com/daiqile96/OTTERS
     notes: Published
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/otter-copyright-free.jpg
   
   - title: "G2S3: A gene graph-based imputation method for single-cell RNA sequencing data"
     authors: Weimiao Wu, Yunqing Liu, <strong>Qile Dai</strong>, Xiting Yan, Zuoheng Wang
@@ -23,7 +23,7 @@ main:
     conference: PLOS Computational Biology
     pdf: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009029
     notes: Published
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/number3.PNG
   
   - title: "Regulation and characterization of tumor-infiltrating immune cells in breast cancer"
     authors: <strong>Qile Dai</strong>, Weimiao Wu, Amei Amei, Xiting Yan, Lingeng Lu, Zuoheng Wang
@@ -31,7 +31,7 @@ main:
     conference: International Immunopharmacology
     pdf: https://pubmed.ncbi.nlm.nih.gov/33223469/
     notes: Published
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/number4.jpg
   
   - title: "STACCato: Supervised Tensor Analysis tool for identifying condition-related Cell-cell Communications using scRNA-seq data across multiple conditions"
     authors: <strong>Qile Dai</strong>, Michael P Epstein, Jingjing Yang
@@ -40,7 +40,7 @@ main:
     pdf: https://www.biorxiv.org/content/10.1101/2023.12.15.571918v1.full.pdf
     code: https://github.com/daiqile96/STACCato
     notes: Under Review
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/number5.jpg
   
   - title: "CADET: Enhanced transcriptome-wide association analyses in admixed samples using eQTL summary data"
     authors: Taylor Head, <strong>Qile Dai</strong>, Joellen Schildkraut, David J. Cutler, Jingjing Yang, Michael Epstein
@@ -48,7 +48,7 @@ main:
     conference: The American Journal of Human Genetics (under revision)
     pdf: https://www.biorxiv.org/content/10.1101/2024.10.21.619441v1
     notes: Under Revision
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/number6.jpg
   
   - title: "Cell-Cell Communication Patterns in Alzheimer’s Disease Dementia and Mild Cognitive Impairment Vary by Cortical Layers"
     authors: <strong>Qile Dai</strong>, Shizhen Tang, Jian Hu, Philip L. De Jager, David A. Bennett, Aron S. Buchman, Jingjing Yang, Michael P. Epstein
