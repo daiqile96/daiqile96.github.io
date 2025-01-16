@@ -7,6 +7,23 @@ layout: homepage
 PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
 research and 2 internships at GSK and Johnson & Johnson. 
 
+## Education
+
+- **Emory University**  
+  *Ph.D. in Biostatistics*  
+  Aug 2020 - May 2025 (Expected)  
+  GPA: 3.99/4.00  
+
+- **Yale University**  
+  *M.S. in Biostatistics*  
+  Aug 2018 - May 2020  
+  GPA: 4.00/4.00  
+
+- **University of International Business and Economics**  
+  *B.S. in Statistics*  
+  Aug 2014 - Jun 2018  
+  GPA: 3.70/4.00  
+
 ## Skills & Interests
 
 - **Programming Languages:** Python, SQL, R, MATLAB, SAS, Bash
