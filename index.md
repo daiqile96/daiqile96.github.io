@@ -11,18 +11,13 @@ research and 2 internships at GSK and Johnson & Johnson.
 
 - **Emory University**  
   *Ph.D. in Biostatistics*  
-  Aug 2020 - May 2025 (Expected)  
-  GPA: 3.99/4.00  
-
+  Aug 2020 - May 2025 (Expected)   
 - **Yale University**  
   *M.S. in Biostatistics*  
   Aug 2018 - May 2020  
-  GPA: 4.00/4.00  
-
 - **University of International Business and Economics**  
   *B.S. in Statistics*  
   Aug 2014 - Jun 2018  
-  GPA: 3.70/4.00  
 
 ## Skills & Interests
 
