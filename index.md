@@ -18,10 +18,11 @@ research and 2 internships at GSK and Johnson & Johnson. Authorized to work in t
 
 ## Projects
 
-- **Sentiment Analysis for Marketing via Bidirectional Transformer Model** [\[code\]](https://github.com/daiqile96/sentiment_analysis)
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Sentiment Analysis for Marketing via Bidirectional Transformer Model** [\[code\]](https://github.com/daiqile96/sentiment_analysis)  
+  Fine-tuned BERT with PyTorch and Hugging Face Transformers for sentiment assessment of Amazon Reviews, achieving 83% recall rate and 80% precision rate on predicting positive sentiment.
+
+- **Food Vision Classification via Convolutional Neural Network** [\[code\]](https://github.com/daiqile96/food_vision_classification)  
+  Fine-tuned EfficientNet-B2 architecture with TensorFlow for food image classification, achieving 81% accuracy.
 
 {% include_relative _includes/publications.md %}
 
