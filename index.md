@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
+research and 2 internships at GSK and Johnson & Johnson. Authorized to work in the U.S. without sponsorship.
 
 ## Research Interests
 
