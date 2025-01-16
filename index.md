@@ -5,12 +5,10 @@ layout: homepage
 ## About Me
 
 PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
-research and 2 internships at GSK and Johnson & Johnson. Authorized to work in the U.S. without sponsorship.
+research and 2 internships at GSK and Johnson & Johnson. 
 
 ## Skills & Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 - **Programming Languages:** Python, SQL, R, MATLAB, SAS, Bash
 - **ML Frameworks:** Scikit-Learn, PyTorch, TensorFlow, Keras, OpenCV, HuggingFace Transformers
 - **Data Analysis:** Pandas, NumPy, PySpark, Hadoop, Tableau, Power BI
