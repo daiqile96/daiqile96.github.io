@@ -7,7 +7,7 @@ layout: homepage
 PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
 research and 2 internships at GSK and Johnson & Johnson. 
 
-## Education
+<!-- ## Education
 
 - **Emory University**  
   *Ph.D. in Biostatistics*  
@@ -50,7 +50,7 @@ research and 2 internships at GSK and Johnson & Johnson.
   - **Project 2: Multi-Dimensional Tensor Data Analysis**  
     - Developed an R package using supervised tensor decomposition for gene expression analysis.  
   - **Project 3: Alzheimer’s Risk Prediction with Time-Series Data**  
-    - Employed recurrent neural networks (LSTM) in Python (Scikit-learn, PyTorch) to predict brain pathologies using longitudinal clinical features, increasing prediction accuracy by 15%.  
+    - Employed recurrent neural networks (LSTM) in Python (Scikit-learn, PyTorch) to predict brain pathologies using longitudinal clinical features, increasing prediction accuracy by 15%. -->
 
 ## Skills & Interests
 
