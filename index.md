@@ -7,7 +7,7 @@ layout: homepage
 - I'm a 5th year PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
 research and 2 internships at GSK and Johnson & Johnson. 
 
-- I'm interested in Bayesian statistics, causal inference, machine learning, statistical genetics and genomics, and clinical trials.
+- **Interests:** Bayesian statistics, causal inference, machine learning, statistical genetics and genomics, and clinical trials.
 
 <!-- ## Education
 
@@ -54,7 +54,7 @@ research and 2 internships at GSK and Johnson & Johnson.
   - **Project 3: Alzheimer’s Risk Prediction with Time-Series Data**  
     - Employed recurrent neural networks (LSTM) in Python (Scikit-learn, PyTorch) to predict brain pathologies using longitudinal clinical features, increasing prediction accuracy by 15%. -->
 
-## Skills & Interests
+## Skills
 
 - **Programming Languages:** Python, SQL, R, MATLAB, SAS, Bash
 - **ML Frameworks:** Scikit-Learn, PyTorch, TensorFlow, Keras, OpenCV, HuggingFace Transformers
