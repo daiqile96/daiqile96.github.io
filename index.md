@@ -4,8 +4,10 @@ layout: homepage
 
 ## About Me
 
-PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
+- I'm a 5th year PhD candidate in Biostatistics with extensive experience in AI/ML and statistical modeling gained through 6+ years of
 research and 2 internships at GSK and Johnson & Johnson. 
+
+- I'm interested in Bayesian statistics, causal inference, machine learning, statistical genetics and genomics, and clinical trials.
 
 <!-- ## Education
 
